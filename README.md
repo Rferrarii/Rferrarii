@@ -2,10 +2,10 @@
 
 **`Desenvolvedor Inicial Front-End`**
 
-Olá Me chamo Renan Floriano, tenho 20 anos e sou do interior de São-Paulo. Concluí o ensino médio no SESI em 2023.  Atualmente, estou cursando Ciencias da Computação  na    USC. Sempre gostei muito do mundo da programação e tecnologia, onde consigo colocar meu conhecimento e minhas habilidades em praticas! 
+My name is Renan Floriano, I am 20 years old, and I’m from the countryside of São Paulo. I graduated from high school at SESI in 2023 and am currently pursuing a degree in Computer Science at USC. I have always been fascinated by the world of programming and technology, areas where I continuously strive to enhance my knowledge and apply my skills in a practical and effective way.
 
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
