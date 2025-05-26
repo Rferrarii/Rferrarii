@@ -8,7 +8,10 @@
 
 ## 👤 Sobre mim
 
-**My name is Renan Floriano, I am 20 years old, and I’m from the countryside of São Paulo. I graduated from high school at SESI in 2023 and am currently pursuing a degree in Computer Science at USC. I have always been fascinated by the world of programming and technology, areas where I continuously strive to enhance my knowledge and apply my skills in a practical and effective way.**
+**Olá! Meu nome é Renan, tenho 20 anos e sou do interior de São Paulo.
+Atualmente curso Ciência da Computação na USC.
+Sou apaixonado por programação e tecnologia, especialmente pela área de Front-End, onde gosto muito de criar interfaces e experiências para o usuário.
+Estou sempre buscando aprender cada vez mais para me tornar um profissional cada vez melhor.**
 
 
 ## 🤖 Linguagens e Tecnologias
@@ -21,7 +24,7 @@
 
 
 
-## 📈 My GitHub Stats
+## 📈 Meu Status no GitHub
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rferrarii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
