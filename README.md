@@ -6,7 +6,7 @@
 
 ---
 
-## 🌌 Sobre mim
+## 👤 Sobre mim
 
 👨‍🎓 **Estudante de** **Ciência da Computação**   
 📍 **São Paulo – Brazil**  
